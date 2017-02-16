@@ -15,5 +15,5 @@
 // and where it is used. So we put it in a separate
 // header file to allow for it to be included at
 // two places.
-float adder(int a, int b);
+float adder(float a, float b);
 #endif
