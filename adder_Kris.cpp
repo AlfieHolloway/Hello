@@ -1,4 +1,4 @@
 #include "adder.h"
-int add(int a, int b) {
+float adder(float a, float b) {
 return a + b;
 }
